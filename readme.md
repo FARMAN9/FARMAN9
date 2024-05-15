@@ -85,5 +85,5 @@
 
 ![Syed Farman Ali Graph](https://github-readme-activity-graph.vercel.app/graph?username=farman9&custom_title=Syed%20Farman%20Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![snake animation](https://github.com/<seu farman9>/<seu farman9>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/farman9/farman9/blob/output/github-contribution-grid-snake2.svg)
 
