@@ -81,7 +81,7 @@
   <a href="https://github.com/farman9"><img alt="Farman's  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=farman9&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-![Snake animation](https://github.com/farman9/farman/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/farman9/farman9/blob/output/github-contribution-grid-snake.svg)
 
 ![Syed Farman Ali Graph](https://github-readme-activity-graph.vercel.app/graph?username=farman9&custom_title=Syed%20Farman%20Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
