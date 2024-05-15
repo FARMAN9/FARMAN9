@@ -85,5 +85,11 @@
 
 ![Syed Farman Ali Graph](https://github-readme-activity-graph.vercel.app/graph?username=farman9&custom_title=Syed%20Farman%20Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![snake animation](https://github.com/farman9/farman9/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/farman9/farman9/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
