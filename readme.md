@@ -15,7 +15,7 @@
         </samp>
 </h3>
 
-just released just released
+<img src="Brown Modern Travel Facebook Cover.png" />
 
 
 <p align="center">
