@@ -231,8 +231,8 @@ Intelligent edge compute system combining real-world computer vision inference, 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=farman9&show_icons=true&count_private=true&include_all_commits=true&theme=matrix&border_color=00FF66" height="175" alt="Matrix GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farman9&layout=compact&langs_count=10&theme=matrix&border_color=00FF66" height="175" alt="Matrix Top Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=farman9&show_icons=true&count_private=true&include_all_commits=true&theme=matrix&border_color=00FF66" height="175" alt="Matrix GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=farman9&layout=compact&langs_count=10&theme=matrix&border_color=00FF66" height="175" alt="Matrix Top Languages"/>
 
 <br/><br/>
 
@@ -248,24 +248,6 @@ Intelligent edge compute system combining real-world computer vision inference, 
   <img src="https://profile-trophy.vercel.app/?username=farman9&theme=matrix&no-frame=false&margin-w=10&row=1&column=7" alt="Matrix Trophies"/>
 </div>
 
----
-
-## ⚡ // SYSTEM_METRICS_DASHBOARD
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farman9&theme=matrix" width="95%" alt="Profile Details Matrix"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farman9&theme=matrix" width="47%" alt="Repos Per Language Matrix"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farman9&theme=matrix" width="47%" alt="Most Commit Language Matrix"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farman9&theme=matrix" width="95%" alt="Productive Time Matrix"/>
-
-</div>
 
 ---
 
